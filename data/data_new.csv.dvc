@@ -1,0 +1,9 @@
+md5: f55837e42893dda12fcda66f62dfb7f0
+frozen: true
+deps:
+- checksum: W/"dfbe760fb49093ef81a9dc19f181e272"
+  path: https://gitlab.ivymobileapps.com/IvyProjects/ivy_computer_vision_support_app/-/tree/Branch_1/mvp_object_detection_service/tests/unit/data.csv
+outs:
+- md5: e507e2e1e82241d0f9ae647f0614e63f
+  size: 28029
+  path: data_new.csv
